@@ -1,0 +1,12 @@
+INDIA POPULATION DATA ANALYSIS SUMMARY
+========================================
+
+Total States/UTs Analyzed: 35
+Total Population: 1,210,720,939
+
+KEY INSIGHTS:
+1. Most Populated: Uttar Pradesh - 199,812,341
+2. Most Urbanized: Chandigarh - 97.18%
+3. Highest Literacy: Kerala - 94.0%
+4. Highest Density: Delhi - 11297 per km²
+5. States with Negative Growth: 0
