@@ -13,5 +13,5 @@ End-to-end analysis of 2011 Indian Census data for 36 states/UTs using Python.
 ## 🛠️ Tools Used
 Python, Pandas, Matplotlib, Google Colab
 
-## 📈 Dashboard Preview
-![Dashboard](population_dashboard.png)
+## 📈 Dashboard Preview   
+<img src="population_dashboard.png" alt="Dashboard" width="800"/>
